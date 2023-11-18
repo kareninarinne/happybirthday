@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Happy Birthday Cayankku!</title>
+    <style>
+      body {
+        font-family: 'Open Sans', sans-serif;
+        background-color: #f7f7f7;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+
+      img {
+        max-width: 100%;
+        height: 450px;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+
+      .card {
+        background-color: pink;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin: 50px auto;
+        max-width: 450px;
+      }
+
+      h1 {
+        color: #4d98d4;
+      }
+
+      p {
+        color: #333;
+        font-size: 18px;
+      }
+      .ratakn {
+        text-align: justify;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Happy Birthday Nafa!</h1>
+      <img src="https://image.freepik.com/free-vector/surprise-theme-happy-birthday-card-illustration_1344-199.jpg" alt="Birthday Cake" />
+
+      <p class="ratakn"><a href="happyy.html" style="color: #4d98d4">Click this !! :D</a></p>
+    </div>
+  </body>
+</html>
